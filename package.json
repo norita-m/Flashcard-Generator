@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Week 11 Homework",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norita-m/Flashcard-Generator.git"
+  },
+  "author": "nmata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norita-m/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/norita-m/Flashcard-Generator#readme"
+}
